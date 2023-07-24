@@ -1,0 +1,26 @@
+body{
+    margin: 200px;
+}
+
+.outer-box{
+    height: auto;
+    width: 700px;
+    outline: 5px dashed red;
+    outline-offset: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.ib-1{
+    border: 15px solid rgb(146, 95, 0);
+    background-color: orange;
+    height: 400px;
+}
+
+.ib-2{
+    background-color: rgb(71, 158, 158);
+    width: 89.7%;
+    height: 60%;
+    margin-left: 17%;
+    margin-top: 7%;
+}
